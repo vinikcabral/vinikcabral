@@ -1,8 +1,9 @@
 ## Hi there, I'm Vinicius Cabral 👋
 
-- 💻 Data Analystics student sharing my projects
-- 🎓 Currently pursuing a Higher Diploma in Data Analytics at the National College of Ireland. Graduated in Product Design from Puc-Rio
-- 🌱 Actively learning data skills — from cleaning and preparation to analysis and visualization — using Python, PowerBI, SQL, and Excel.
+- 📚 Data Analystics student sharing my projects
+- 🎓 Currently pursuing a Higher Diploma in Data Analytics at the National College of Ireland. Degree in Product Design from Puc-Rio
+- 🌱 Actively learning data skills — from cleaning and preparation to analysis and visualization
+- 💻 Python, PowerBI, SQL, and Excel
 - 🔍 Exploring opportunities in analytics and business intelligence
 
 <!--

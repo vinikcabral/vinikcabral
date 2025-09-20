@@ -7,7 +7,7 @@
 - 🔍 Exploring opportunities in analytics and business intelligence
 
 ## My Projects
-[**Labour Force & Social Protection Welfare in Ireland (Python)**](https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON))<br>
+[**Labour Force & Social Protection Welfare in Ireland (Python)**](https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON)<br>
 This project explores how labour force participation and social protection interact to shape Ireland’s economic health. Using open data from the CSO and the Department of Social Protection, I applied Python for data cleaning, preparation, and visualization to uncover key patterns in employment, unemployment, and welfare policies.
 <!--
 **vinikcabral/vinikcabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,10 @@
 ## Hi there, I'm Vinicius Carrarini 👋
 
-- 📚 Data Analystics student sharing my projects
-- 🎓 Currently pursuing a Higher Diploma in Data Analytics at the National College of Ireland with degree in Product Design from Puc-Rio
-- 🌱 Actively learning data skills — from cleaning and preparation to analysis and visualization
+- 📚 Data Analyst | First Class Honours graduate sharing my projects
+- 🎓 Higher Diploma in Data Analytics at the National College of Ireland, with degree in Product Design from Puc-Rio
+- 🌱 Hands-on experience across the full analytics pipeline — data cleaning, exploratory analysis, and visualization — continuously expanding into new tools and techniques
 - 💻 Python, PowerBI, SQL, and Excel
-- 🔍 Exploring opportunities in analytics and business intelligence
+- 🔍 Open to opportunities in analytics and business intelligence
 
 ## My Projects
 [**Labour Force & Social Protection Welfare in Ireland (Python)**](https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON)<br>

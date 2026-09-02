@@ -1,4 +1,4 @@
-## Hi there, I'm Vinicius Carrarini 👋
+## Hi there, I'm Vinicius Cabral 👋
 
 - 📚 Data Analyst | First Class Honours graduate sharing my projects
 - 🎓 Higher Diploma in Data Analytics at the National College of Ireland, with degree in Product Design from Puc-Rio
